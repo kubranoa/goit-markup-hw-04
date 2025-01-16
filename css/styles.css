@@ -88,6 +88,7 @@ img {
   font-size: medium;
   font-weight: 400;
   font-style: normal;
+  margin-left: 250px;
 }
 .address-ul {
   color: #434455;
@@ -175,10 +176,7 @@ button:focus {
   border: 1px solid #8e8f99;
   margin-bottom: 8px;
 }
-.icon-strategy {
-  width: 64px;
-  height: 64px;
-}
+
 .visually-hidden {
   display: none;
   position: absolute;
@@ -359,6 +357,7 @@ p {
 .footerlist {
   display: flex;
   gap: 16px;
+  list-style: none;
 }
 .footerlistitems {
   width: 40px;
